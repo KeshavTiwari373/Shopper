@@ -1,0 +1,23 @@
+How to Run this Project:-
+
+—First Run Backend then Frontend & Admin—
+
+1) to start the Backend first run "npm install" then "node .\index.js"
+2) to start the Frontend first run "npm install" then "npm run dev"
+3) to start the Admin first run "npm install" then "npm run dev"
+
+Created 3 folder:
+1 for frontend part
+1 for backend part
+1 for admin part where you can add products and remove products
+
+- In frontend part, fetching data from mongoDB through fetch method and showing it in our UI.
+
+- In Backend Created Model, API and auth system to handle adding and fetching data to and from the Database.
+
+- Created a separate Admin project for product add and remove. Connected it with the same Backend.
+
+- Created a Context for Cart price calculation, cart item. 
+
+- Created as per mentioned in the project description.  
+

@@ -1,0 +1,11 @@
+To start the application use commant "npm run dev"
+
+1. Created 4 components – Header.js, Footer.js, HomeCover.js 
+    (for the portion right below the header, and above the slider) and Slider.js
+2. Placed all these 4 components in Home.js (main component).
+3. In the App.js root component, created a single Route (/) that redirects to Home.js.
+4. Added code to all these components. 
+    Created local styles to style the relevant components (Header.css, Footer.css) 
+    and a generic Home.css for the HomeCover.js and Slider.js components.
+5. In the src folder, created an img folder to store all the images. But i'm using online image.
+6. Created whole project as per Assignment description.
